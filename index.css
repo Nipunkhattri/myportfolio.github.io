@@ -155,13 +155,13 @@ p{
 
 @media(max-width:479px){
     .carouselimage{
-        height: 390px;
+        height: 470px;
     }
     #about{
         height: 1350px !important;
     }
     #services{
-        height: 1870px !important;
+        height: 1890px !important;
     }
     .project{
         height: 760px;
