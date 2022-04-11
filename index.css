@@ -7,11 +7,9 @@ html{
 }
 .navbar-brand{
     font-size: 25px;
-
 }
 .nav-link{
     font-size: 25px;
-    /* padding: 20px 10px; */
 }
 .nav-item{
     margin: 2px 13px ;
@@ -25,8 +23,7 @@ html{
 }
 .btn{
     width: 150px;
-
-}
+} 
 /* ----------------------------------------------------------------------------- */
 .d-md-block{
     border-radius: 20px;
